@@ -3,18 +3,6 @@
     {
       "task": "JavaScript",
       "desc": "lern JavaScript",
-      "priority": "hight",
-      "id": 7
-    },
-    {
-      "task": "JavaScript",
-      "desc": "lern JavaScript",
-      "priority": "hight",
-      "id": 8
-    },
-    {
-      "task": "JavaScript",
-      "desc": "lern JavaScript",
       "priority": "medium",
       "id": 9
     },
@@ -39,14 +27,26 @@
     {
       "task": "JavaScript",
       "desc": "lern JavaScript",
-      "priority": "low",
-      "id": 13
+      "priority": "hight",
+      "id": 14
     },
     {
       "task": "JavaScript",
       "desc": "lern JavaScript",
       "priority": "hight",
-      "id": 14
+      "id": 15
+    },
+    {
+      "task": "JavaScript",
+      "desc": "lern JavaScript",
+      "priority": "low",
+      "id": 16
+    },
+    {
+      "task": "JavaScript",
+      "desc": "lern JavaScript",
+      "priority": "low",
+      "id": 17
     }
   ]
 }
